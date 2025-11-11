@@ -1,0 +1,5 @@
+requests
+pyperclip
+mysql-connector-python
+selenium
+webdriver-manager
